@@ -1,0 +1,1233 @@
+
+
+THE ORIGINAL MESSAGE: You should always try your hardest at everything you do
+
+
+THE KEYWORD: key
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword KEY fits into your message 15.333333333333334 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+KEY KEYKEY KEYKEY KEY KEYK EYKEYKE YK EYKEYKEYKE YKE YK
+YOU SHOULD ALWAYS TRY YOUR HARDEST AT EVERYTHING YOU DO
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+Y ---> I
+O ---> S
+U ---> S
+
+YOUR ENCRYPTED MESSAGE: ISS CLMEPB KPUKCQ DVW ISSB LYBHCCX YD ITOVWDLGXK WYY BY
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: ISS CLMEPB KPUKCQ DVW ISSB LYBHCCX YD ITOVWDLGXK WYY BY
+
+Keyword: KEY
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword KEY fits into your message 15.333333333333334 times
+
+
+Let's match up the keyword and the encoded message this time
+
+KEY KEYKEY KEYKEY KEY KEYK EYKEYKE YK EYKEYKEYKE YKE YK
+ISS CLMEPB KPUKCQ DVW ISSB LYBHCCX YD ITOVWDLGXK WYY BY
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+I ---> Y
+S ---> O
+S ---> U
+
+YOUR DECRYPTED MESSAGE: YOU SHOULD ALWAYS TRY YOUR HARDEST AT EVERYTHING YOU DO
+
+
+
+THE ORIGINAL MESSAGE: I love to program in Java and Python
+
+
+THE KEYWORD: code
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword CODE fits into your message 7.25 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+C ODEC OD ECODECO DE CODE COD ECODEC
+I LOVE TO PROGRAM IN JAVA AND PYTHON
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+I ---> K
+L ---> Z
+O ---> R
+
+YOUR ENCRYPTED MESSAGE: K ZRZG HR TTCJVCA LR LOYE CBG TAHKSP
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: K ZRZG HR TTCJVCA LR LOYE CBG TAHKSP
+
+Keyword: CODE
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword CODE fits into your message 7.25 times
+
+
+Let's match up the keyword and the encoded message this time
+
+C ODEC OD ECODECO DE CODE COD ECODEC
+K ZRZG HR TTCJVCA LR LOYE CBG TAHKSP
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+K ---> I
+Z ---> L
+R ---> O
+
+YOUR DECRYPTED MESSAGE: I LOVE TO PROGRAM IN JAVA AND PYTHON
+
+
+
+THE ORIGINAL MESSAGE: She sells sea shells by the sea shore
+
+
+THE KEYWORD: beach
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword BEACH fits into your message 6.0 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+BEA CHBEA CHB EACHBE AC HBE ACH BEACH
+SHE SELLS SEA SHELLS BY THE SEA SHORE
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+S ---> T
+H ---> L
+E ---> E
+
+YOUR ENCRYPTED MESSAGE: TLE ULMPS ULB WHGSMW BA AII SGH TLOTL
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: TLE ULMPS ULB WHGSMW BA AII SGH TLOTL
+
+Keyword: BEACH
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword BEACH fits into your message 6.0 times
+
+
+Let's match up the keyword and the encoded message this time
+
+BEA CHBEA CHB EACHBE AC HBE ACH BEACH
+TLE ULMPS ULB WHGSMW BA AII SGH TLOTL
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+T ---> S
+L ---> H
+E ---> E
+
+YOUR DECRYPTED MESSAGE: SHE SELLS SEA SHELLS BY THE SEA SHORE
+
+
+
+THE ORIGINAL MESSAGE: I think that you should always try new things
+
+
+THE KEYWORD: life
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword LIFE fits into your message 9.25 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+L IFELI FELI FEL IFELIF ELIFEL IFE LIF ELIFEL
+I THINK THAT YOU SHOULD ALWAYS TRY NEW THINGS
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+I ---> T
+T ---> B
+H ---> M
+
+YOUR ENCRYPTED MESSAGE: T BMMYS YLLB DSF AMSFTI EWEFCD BWC YMB XSQSKD
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: T BMMYS YLLB DSF AMSFTI EWEFCD BWC YMB XSQSKD
+
+Keyword: LIFE
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword LIFE fits into your message 9.25 times
+
+
+Let's match up the keyword and the encoded message this time
+
+L IFELI FELI FEL IFELIF ELIFEL IFE LIF ELIFEL
+T BMMYS YLLB DSF AMSFTI EWEFCD BWC YMB XSQSKD
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+T ---> I
+B ---> T
+M ---> H
+
+YOUR DECRYPTED MESSAGE: I THINK THAT YOU SHOULD ALWAYS TRY NEW THINGS
+
+
+
+THE ORIGINAL MESSAGE: My name is Rohan and I was born in the United States of America
+
+
+THE KEYWORD: countries
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword COUNTRIES fits into your message 5.555555555555555 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+CO UNTR IE SCOUN TRI E SCO UNTR IE SCO UNTRIE SCOUNT RI ESCOUNT
+MY NAME IS ROHAN AND I WAS BORN IN THE UNITED STATES OF AMERICA
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+M ---> O
+Y ---> M
+N ---> H
+
+YOUR ENCRYPTED MESSAGE: OM HNFV QW JQVUA TEL M OCG VBKE QR LJS OABKMH KVONRL FN EEGFCPT
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: OM HNFV QW JQVUA TEL M OCG VBKE QR LJS OABKMH KVONRL FN EEGFCPT
+
+Keyword: COUNTRIES
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword COUNTRIES fits into your message 5.555555555555555 times
+
+
+Let's match up the keyword and the encoded message this time
+
+CO UNTR IE SCOUN TRI E SCO UNTR IE SCO UNTRIE SCOUNT RI ESCOUNT
+OM HNFV QW JQVUA TEL M OCG VBKE QR LJS OABKMH KVONRL FN EEGFCPT
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+O ---> M
+M ---> Y
+H ---> N
+
+YOUR DECRYPTED MESSAGE: MY NAME IS ROHAN AND I WAS BORN IN THE UNITED STATES OF AMERICA
+
+
+
+THE ORIGINAL MESSAGE: I have spoken Spanish for over 11 years
+
+
+THE KEYWORD: language
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword LANGUAGE fits into your message 4.0 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+L ANGU AGELAN GUAGELA NGU AGEL AN GUAGE
+I HAVE SPOKEN SPANISH FOR OVER 11 YEARS
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+I ---> T
+H ---> H
+A ---> N
+
+YOUR ENCRYPTED MESSAGE: T HNBY SVSVEA YJATMDH SUL OBIC 11 EYAXW
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: T HNBY SVSVEA YJATMDH SUL OBIC 11 EYAXW
+
+Keyword: LANGUAGE
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword LANGUAGE fits into your message 4.0 times
+
+
+Let's match up the keyword and the encoded message this time
+
+L ANGU AGELAN GUAGELA NGU AGEL AN GUAGE
+T HNBY SVSVEA YJATMDH SUL OBIC 11 EYAXW
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+T ---> I
+H ---> H
+N ---> A
+
+YOUR DECRYPTED MESSAGE: I HAVE SPOKEN SPANISH FOR OVER 11 YEARS
+
+
+
+THE ORIGINAL MESSAGE: This year, I had to do school from home. It was fun but also annoying to be stuck inside all day
+
+
+THE KEYWORD: school
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword SCHOOL fits into your message 12.666666666666666 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+SCHO OLSCH O OLS CH OO LSCHOO LSCH OOLSC HO OLS CHO OLS CHOO LSCHOOLS CH OO LSCHO OLSCHO OLS CHO
+THIS YEAR, I HAD TO DO SCHOOL FROM HOME. IT WAS FUN BUT ALSO ANNOYING TO BE STUCK INSIDE ALL DAY
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+T ---> L
+H ---> J
+I ---> P
+S ---> G
+
+YOUR ENCRYPTED MESSAGE: LJPG MPST, W VLV VV RC DUJVCZ QJQT VCXW. PH KLK HBB PFL CSGC LFPVMWYY VV PS DLWJY WYKKKS OWD FHM
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: LJPG MPST, W VLV VV RC DUJVCZ QJQT VCXW. PH KLK HBB PFL CSGC LFPVMWYY VV PS DLWJY WYKKKS OWD FHM
+
+Keyword: SCHOOL
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword SCHOOL fits into your message 12.666666666666666 times
+
+
+Let's match up the keyword and the encoded message this time
+
+SCHO OLSCH O OLS CH OO LSCHOO LSCH OOLSC HO OLS CHO OLS CHOO LSCHOOLS CH OO LSCHO OLSCHO OLS CHO
+LJPG MPST, W VLV VV RC DUJVCZ QJQT VCXW. PH KLK HBB PFL CSGC LFPVMWYY VV PS DLWJY WYKKKS OWD FHM
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+L ---> T
+J ---> H
+P ---> I
+G ---> S
+
+YOUR DECRYPTED MESSAGE: THIS YEAR, I HAD TO DO SCHOOL FROM HOME. IT WAS FUN BUT ALSO ANNOYING TO BE STUCK INSIDE ALL DAY
+
+
+
+THE ORIGINAL MESSAGE: Next year, I am looking forward to taking either AP Statistics or IB Economics
+
+
+THE KEYWORD: class
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword CLASS fits into your message 13.0 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+CLAS SCLAS S CL ASSCLAS SCLASSC LA SSCLAS SCLASS CL ASSCLASSCL AS SC LASSCLASS
+NEXT YEAR, I AM LOOKING FORWARD TO TAKING EITHER AP STATISTICS OR IB ECONOMICS
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+N ---> P
+E ---> P
+X ---> X
+T ---> L
+
+YOUR ENCRYPTED MESSAGE: PPXL QGLR, A CX LGGMTNY XQCWSJF EO LSMTNY WKEHWJ CA SLSVTSLAED OJ AD PCGFQXIUK
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: PPXL QGLR, A CX LGGMTNY XQCWSJF EO LSMTNY WKEHWJ CA SLSVTSLAED OJ AD PCGFQXIUK
+
+Keyword: CLASS
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword CLASS fits into your message 13.0 times
+
+
+Let's match up the keyword and the encoded message this time
+
+CLAS SCLAS S CL ASSCLAS SCLASSC LA SSCLAS SCLASS CL ASSCLASSCL AS SC LASSCLASS
+PPXL QGLR, A CX LGGMTNY XQCWSJF EO LSMTNY WKEHWJ CA SLSVTSLAED OJ AD PCGFQXIUK
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+P ---> N
+P ---> E
+X ---> X
+L ---> T
+
+YOUR DECRYPTED MESSAGE: NEXT YEAR, I AM LOOKING FORWARD TO TAKING EITHER AP STATISTICS OR IB ECONOMICS
+
+
+
+THE ORIGINAL MESSAGE: Although Vigenere Cipher messages can contain numbers and special characters, they are skipped over during the encryption process
+
+
+THE KEYWORD: limitations
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword LIMITATIONS fits into your message 10.181818181818182 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+LIMITATI ONSLIMIT ATIONS LIMITATI ONS LIMITAT IONSLIM ITA TIONSLI MITATIONSLI MITA TIO NSLIMIT ATIO NSLIMI TAT IONSLIMITA TIONSLI
+ALTHOUGH VIGENERE CIPHER MESSAGES CAN CONTAIN NUMBERS AND SPECIAL CHARACTERS, THEY ARE SKIPPED OVER DURING THE ENCRYPTION PROCESS
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+A ---> L
+L ---> T
+T ---> F
+H ---> P
+
+YOUR ENCRYPTED MESSAGE: LTFPHUZP JVYPVQZX CBXVRJ XMEATGXA QNF NWZBTIG VIZTPZE IGD LXSPALT OPTRTKHRJD, FPXY TZS FCTXBMW OOMF QMCQZO MHX MBPJJXFQHN IZCPWDA
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: LTFPHUZP JVYPVQZX CBXVRJ XMEATGXA QNF NWZBTIG VIZTPZE IGD LXSPALT OPTRTKHRJD, FPXY TZS FCTXBMW OOMF QMCQZO MHX MBPJJXFQHN IZCPWDA
+
+Keyword: LIMITATIONS
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword LIMITATIONS fits into your message 10.181818181818182 times
+
+
+Let's match up the keyword and the encoded message this time
+
+LIMITATI ONSLIMIT ATIONS LIMITATI ONS LIMITAT IONSLIM ITA TIONSLI MITATIONSLI MITA TIO NSLIMIT ATIO NSLIMI TAT IONSLIMITA TIONSLI
+LTFPHUZP JVYPVQZX CBXVRJ XMEATGXA QNF NWZBTIG VIZTPZE IGD LXSPALT OPTRTKHRJD, FPXY TZS FCTXBMW OOMF QMCQZO MHX MBPJJXFQHN IZCPWDA
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+L ---> A
+T ---> L
+F ---> T
+P ---> H
+
+YOUR DECRYPTED MESSAGE: ALTHOUGH VIGENERE CIPHER MESSAGES CAN CONTAIN NUMBERS AND SPECIAL CHARACTERS, THEY ARE SKIPPED OVER DURING THE ENCRYPTION PROCESS
+
+
+
+THE ORIGINAL MESSAGE: This is the last test case for this cipher!
+
+
+THE KEYWORD: last
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword LAST fits into your message 8.75 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+LAST LA STL ASTL ASTL ASTL AST LAST LASTLAS
+THIS IS THE LAST TEST CASE FOR THIS CIPHER!
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+T ---> E
+H ---> H
+I ---> A
+S ---> L
+
+YOUR ENCRYPTED MESSAGE: EHAL TS LAP LSLE TWLE CSLP FGK EHAL NIHAPR!
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: EHAL TS LAP LSLE TWLE CSLP FGK EHAL NIHAPR!
+
+Keyword: LAST
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword LAST fits into your message 8.75 times
+
+
+Let's match up the keyword and the encoded message this time
+
+LAST LA STL ASTL ASTL ASTL AST LAST LASTLAS
+EHAL TS LAP LSLE TWLE CSLP FGK EHAL NIHAPR!
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+E ---> T
+H ---> H
+A ---> I
+L ---> S
+
+YOUR DECRYPTED MESSAGE: THIS IS THE LAST TEST CASE FOR THIS CIPHER!
+
+
+The Vigenere Square, used for encryption and decryption with the Vigenere Cipher
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+B C D E F G H I J K L M N O P Q R S T U V W X Y Z A 
+C D E F G H I J K L M N O P Q R S T U V W X Y Z A B 
+D E F G H I J K L M N O P Q R S T U V W X Y Z A B C 
+E F G H I J K L M N O P Q R S T U V W X Y Z A B C D 
+F G H I J K L M N O P Q R S T U V W X Y Z A B C D E 
+G H I J K L M N O P Q R S T U V W X Y Z A B C D E F 
+H I J K L M N O P Q R S T U V W X Y Z A B C D E F G 
+I J K L M N O P Q R S T U V W X Y Z A B C D E F G H 
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I 
+K L M N O P Q R S T U V W X Y Z A B C D E F G H I J 
+L M N O P Q R S T U V W X Y Z A B C D E F G H I J K 
+M N O P Q R S T U V W X Y Z A B C D E F G H I J K L 
+N O P Q R S T U V W X Y Z A B C D E F G H I J K L M 
+O P Q R S T U V W X Y Z A B C D E F G H I J K L M N 
+P Q R S T U V W X Y Z A B C D E F G H I J K L M N O 
+Q R S T U V W X Y Z A B C D E F G H I J K L M N O P 
+R S T U V W X Y Z A B C D E F G H I J K L M N O P Q 
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+T U V W X Y Z A B C D E F G H I J K L M N O P Q R S 
+U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+V W X Y Z A B C D E F G H I J K L M N O P Q R S T U 
+W X Y Z A B C D E F G H I J K L M N O P Q R S T U V 
+X Y Z A B C D E F G H I J K L M N O P Q R S T U V W 
+Y Z A B C D E F G H I J K L M N O P Q R S T U V W X 
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y 
+
+To start, we need to match up the keyword with the message.
+
+The keyword HOBBY fits into your message 13.0 times
+
+
+Each character in the keyword is paired up with each character in your message
+
+HO BB YHOB BYHOB B YHOBB YHOBBYHO BBYHOBBYHOB BYH OBBYHOB BYHOBB YHOB BYHOBBY
+IN MY FREE TIME, I ENJOY READING, PROGRAMMING AND PLAYING SOCCER WITH FRIENDS
+
+After you do this, you can start encrypting your message!
+
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, determine the first character in your message
+
+2. Find the location of that letter in the first row of the Vigenere Table
+
+3. Next, determine the first character of your keyword
+
+4. Find the location of this character in the first column of the Vigenere Table
+
+5. Find the intersection of these two points. The character there is the encrypted character!
+
+I ---> P
+N ---> B
+M ---> N
+
+YOUR ENCRYPTED MESSAGE: PB NZ DYSF UGTS, J CUXPZ PLOEJLN, QSMNFBNKPBH BLK DMBWPBH TMJQFS UPHI GPPSOEQ
+
+
+
+Now, we are going to decode your message
+
+You will need the Vigenere Table, your encrypted message, and your chosen keyword. The table is above, your message and keyword are below:
+
+Encoded message: PB NZ DYSF UGTS, J CUXPZ PLOEJLN, QSMNFBNKPBH BLK DMBWPBH TMJQFS UPHI GPPSOEQ
+
+Keyword: HOBBY
+
+
+To start, we need to match up the keyword with the message.
+
+The keyword HOBBY fits into your message 13.0 times
+
+
+Let's match up the keyword and the encoded message this time
+
+HO BB YHOB BYHOB B YHOBB YHOBBYHO BBYHOBBYHOB BYH OBBYHOB BYHOBB YHOB BYHOBBY
+PB NZ DYSF UGTS, J CUXPZ PLOEJLN, QSMNFBNKPBH BLK DMBWPBH TMJQFS UPHI GPPSOEQ
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, determine the first character in your keyword
+
+2. Find the location of that letter in the first column of the Vigenere Table
+
+3. Next, go down that column until you find the first character of your encrypted message
+
+4. Find the row that this character is in
+
+5. The first letter of this row is your decrypted character
+P ---> I
+B ---> N
+N ---> M
+
+YOUR DECRYPTED MESSAGE: IN MY FREE TIME, I ENJOY READING, PROGRAMMING AND PLAYING SOCCER WITH FRIENDS
+

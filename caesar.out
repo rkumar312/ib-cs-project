@@ -1,0 +1,334 @@
+
+THE ORIGINAL MESSAGE: I really like to code
+
+
+THE SHIFT: 5
+
+
+The shift was 5, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+I ---> N
+R ---> W
+E ---> J
+A ---> F
+
+YOUR ENCRYPTED MESSAGE: N WJFQQD QNPJ YT HTIJ
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 5, the first few letters of the encoded message are decoded like below: 
+
+N ---> I
+W ---> R
+J ---> E
+F ---> A
+
+YOUR DECRYPTED MESSAGE: I REALLY LIKE TO CODE
+
+
+THE ORIGINAL MESSAGE: Up up and away went the astronaut
+
+
+THE SHIFT: 9
+
+
+The shift was 9, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+U ---> D
+P ---> Y
+U ---> D
+P ---> Y
+
+YOUR ENCRYPTED MESSAGE: DY DY JWM JFJH FNWC CQN JBCAXWJDC
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 9, the first few letters of the encoded message are decoded like below: 
+
+D ---> U
+Y ---> P
+D ---> U
+Y ---> P
+
+YOUR DECRYPTED MESSAGE: UP UP AND AWAY WENT THE ASTRONAUT
+
+
+THE ORIGINAL MESSAGE: The quick brown fox jumps over the lazy little dog
+
+
+THE SHIFT: 20
+
+
+The shift was 20, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+T ---> N
+H ---> B
+E ---> Y
+Q ---> K
+
+YOUR ENCRYPTED MESSAGE: NBY KOCWE VLIQH ZIR DOGJM IPYL NBY FUTS FCNNFY XIA
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 20, the first few letters of the encoded message are decoded like below: 
+
+N ---> T
+B ---> H
+Y ---> E
+K ---> Q
+
+YOUR DECRYPTED MESSAGE: THE QUICK BROWN FOX JUMPS OVER THE LAZY LITTLE DOG
+
+
+THE ORIGINAL MESSAGE: My favorite sport is soccer but I like baseball as well
+
+
+THE SHIFT: 1
+
+
+The shift was 1, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+M ---> N
+Y ---> Z
+F ---> G
+A ---> B
+
+YOUR ENCRYPTED MESSAGE: NZ GBWPSJUF TQPSU JT TPDDFS CVU J MJLF CBTFCBMM BT XFMM
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 1, the first few letters of the encoded message are decoded like below: 
+
+N ---> M
+Z ---> Y
+G ---> F
+B ---> A
+
+YOUR DECRYPTED MESSAGE: MY FAVORITE SPORT IS SOCCER BUT I LIKE BASEBALL AS WELL
+
+
+THE ORIGINAL MESSAGE: For my Computer Science IA I am building a project to teach about how ciphers have evolved
+
+
+THE SHIFT: 17
+
+
+The shift was 17, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+F ---> W
+O ---> F
+R ---> I
+M ---> D
+
+YOUR ENCRYPTED MESSAGE: WFI DP TFDGLKVI JTZVETV ZR Z RD SLZCUZEX R GIFAVTK KF KVRTY RSFLK YFN TZGYVIJ YRMV VMFCMVU
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 17, the first few letters of the encoded message are decoded like below: 
+
+W ---> F
+F ---> O
+I ---> R
+D ---> M
+
+YOUR DECRYPTED MESSAGE: FOR MY COMPUTER SCIENCE IA I AM BUILDING A PROJECT TO TEACH ABOUT HOW CIPHERS HAVE EVOLVED
+
+
+THE ORIGINAL MESSAGE: My favorite band is the Beatles
+
+
+THE SHIFT: 4
+
+
+The shift was 4, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+M ---> Q
+Y ---> C
+F ---> J
+A ---> E
+
+YOUR ENCRYPTED MESSAGE: QC JEZSVMXI FERH MW XLI FIEXPIW
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 4, the first few letters of the encoded message are decoded like below: 
+
+Q ---> M
+C ---> Y
+J ---> F
+E ---> A
+
+YOUR DECRYPTED MESSAGE: MY FAVORITE BAND IS THE BEATLES
+
+
+THE ORIGINAL MESSAGE: My favorite number is 31, but I also like the number 12 because I am from Seattle
+
+
+THE SHIFT: 12
+
+
+The shift was 12, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+M ---> Y
+Y ---> K
+F ---> R
+A ---> M
+
+YOUR ENCRYPTED MESSAGE: YK RMHADUFQ ZGYNQD UE 31, NGF U MXEA XUWQ FTQ ZGYNQD 12 NQOMGEQ U MY RDAY EQMFFXQ
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 12, the first few letters of the encoded message are decoded like below: 
+
+Y ---> M
+K ---> Y
+R ---> F
+M ---> A
+
+YOUR DECRYPTED MESSAGE: MY FAVORITE NUMBER IS 31, BUT I ALSO LIKE THE NUMBER 12 BECAUSE I AM FROM SEATTLE
+
+
+THE ORIGINAL MESSAGE: My favorite movie is called My Cousin Vinny
+
+
+THE SHIFT: 18
+
+
+The shift was 18, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+M ---> E
+Y ---> Q
+F ---> X
+A ---> S
+
+YOUR ENCRYPTED MESSAGE: EQ XSNGJALW EGNAW AK USDDWV EQ UGMKAF NAFFQ
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 18, the first few letters of the encoded message are decoded like below: 
+
+E ---> M
+Q ---> Y
+X ---> F
+S ---> A
+
+YOUR DECRYPTED MESSAGE: MY FAVORITE MOVIE IS CALLED MY COUSIN VINNY
+
+
+THE ORIGINAL MESSAGE: Seattle is a fun city ot live in, but I wish that I could live in France
+
+
+THE SHIFT: 26
+
+
+The shift was 26, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+S ---> S
+E ---> E
+A ---> A
+T ---> T
+T ---> T
+
+YOUR ENCRYPTED MESSAGE: SEATTLE IS A FUN CITY OT LIVE IN, BUT I WISH THAT I COULD LIVE IN FRANCE
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 26, the first few letters of the encoded message are decoded like below: 
+
+S ---> S
+E ---> E
+A ---> A
+T ---> T
+T ---> T
+
+YOUR DECRYPTED MESSAGE: SEATTLE IS A FUN CITY OT LIVE IN, BUT I WISH THAT I COULD LIVE IN FRANCE
+
+
+THE ORIGINAL MESSAGE: I have 10 pens on my desk, but only 5 pen caps!!
+
+
+THE SHIFT: 15
+
+
+The shift was 15, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+I ---> X
+H ---> W
+A ---> P
+V ---> K
+
+YOUR ENCRYPTED MESSAGE: X WPKT 10 ETCH DC BN STHZ, QJI DCAN 5 ETC RPEH!!
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 15, the first few letters of the encoded message are decoded like below: 
+
+X ---> I
+W ---> H
+P ---> A
+K ---> V
+
+YOUR DECRYPTED MESSAGE: I HAVE 10 PENS ON MY DESK, BUT ONLY 5 PEN CAPS!!
+
+
+Your message: HELLO, MY NAME IS ROHAN
+
+
+Your shift: 12
+
+
+The shift was 12, so all the letters in the message will be shifted by that amount.
+
+Based on the shift, the first few letters of the message are transformed like below: 
+
+H ---> T
+E ---> Q
+L ---> X
+L ---> X
+O ---> A
+
+YOUR ENCRYPTED MESSAGE: TQXXA, YK ZMYQ UE DATMZ
+
+
+Let's now try to decrypt part of your message!
+
+Based on the shift of 12, the first few letters of the encoded message are decoded like below: 
+
+T ---> H
+Q ---> E
+X ---> L
+X ---> L
+A ---> O
+
+YOUR DECRYPTED MESSAGE: HELLO, MY NAME IS ROHAN
+

@@ -1,0 +1,1136 @@
+
+
+ORIGINAL MESSAGE: Although the Polygram cipher was invented in 1929, it is still much more complicated than other ciphers
+
+
+Message length: 103 characters
+
+Shifts: [1, 2, 3, 4, 5, 4, 3, 2, 1]
+
+Number of groups: 9
+
+Length of each group: 11
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 11 characters, except for the last group
+Here are the groups: [Although th, e Polygram , cipher was , invented in,  1929, it i, s still muc, h more comp, licated tha, n other ciphers]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: tsfiqjd!sfiup!ocjv"fgvceknsprf#hurp#kgyq$ppmxw$wn%yn%1>7>6%rm$hixrizrm#vdz#uhkslf"octi{nqR"giu!ihvpiumB
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: Bmuipvhi!uig"Rqn{itco"flskhu#zdv#mrzirxih$mr%6>7>1%ny%nw$wxmpp$qygk#pruh#frpsnkecvgf"vjco!puifs!djqifst
+
+We use the same grouping system to decrypt as well!
+
+Message length: 103
+
+Shifts: [1, 2, 3, 4, 5, 4, 3, 2, 1]
+
+Number of groups: 9
+
+Length of each group: 11
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 11 characters, except for the last group
+
+
+Here are the groups: [Bmuipvhi!ui, g"Rqn{itco", flskhu#zdv#, mrzirxih$mr, %6>7>1%ny%n, w$wxmpp$qyg, k#pruh#frps, nkecvgf"vjc, o!puifs!djqifst]
+
+
+B ---> A
+
+m ---> l
+
+u ---> t
+
+i ---> h
+
+p ---> o
+
+YOUR DECRYPTED MESSAGE: Although the Polygram cipher was invented in 1929, it is still much more complicated than other ciphers
+
+
+
+ORIGINAL MESSAGE: Trying and failing is part of life. Failing to try should never be. 
+
+
+Message length: 68 characters
+
+Shifts: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+Number of groups: 10
+
+Length of each group: 6
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 6 characters, except for the last group
+Here are the groups: [Trying,  and f, ailing,  is pa, rt of , life. , Failin, g to t, ry sho, uld never be. ]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: !/fc!sfwfo!emvqju"{tw#rw#jrmpmeJ%3jknq&lu&zxhw'zp'ovqtqio)mwj)qxs?|^
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: ^|?sxq)jwm)oiqtqvo'pz'whxz&ul&qnkj3%Jempmrj#wr#wt{"ujqvme!ofwfs!cf/!
+
+We use the same grouping system to decrypt as well!
+
+Message length: 68
+
+Shifts: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+Number of groups: 10
+
+Length of each group: 6
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 6 characters, except for the last group
+
+
+Here are the groups: [^|?sxq, )jwm)o, iqtqvo, 'pz'wh, xz&ul&, qnkj3%, Jempmr, j#wr#w, t{"ujq, vme!ofwfs!cf/!]
+
+
+^ ---> T
+
+| ---> r
+
+? ---> y
+
+s ---> i
+
+x ---> n
+
+YOUR DECRYPTED MESSAGE: Trying and failing is part of life. Failing to try should never be. 
+
+
+
+ORIGINAL MESSAGE: I think that all people should learn about security, it is imperative in today's world
+
+
+Message length: 86 characters
+
+Shifts: [5, 10, 15, 20, 25, 20, 15, 10, 5]
+
+Number of groups: 9
+
+Length of each group: 9
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 9 characters, except for the last group
+Here are the groups: [I think t, hat all p, eople sho, uld learn,  about se, curity, i, t is impe, rative in,  today's world]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: iqwt|%x,~fity%xs*o?s~k|t|x/?x/?}4@??}??w~?9???{z9??uy?4x??~w?/t{~tz*vvk*~kry%psnmy%N
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: N%ymnsp%yrk~*kvv*zt~{t/?w~??x4?yu??9z{???9?~w??}??@4}?/x?/x|t|k~s?o*sx%ytif~,x%|twqi
+
+We use the same grouping system to decrypt as well!
+
+Message length: 86
+
+Shifts: [5, 10, 15, 20, 25, 20, 15, 10, 5]
+
+Number of groups: 9
+
+Length of each group: 9
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 9 characters, except for the last group
+
+
+Here are the groups: [N%ymnsp%y, rk~*kvv*z, t~{t/?w~, ??x4?yu??, 9z{???9?~, w??}??@4}, ?/x?/x|t, |k~s?o*sx, %ytif~,x%|twqi]
+
+
+N ---> I
+
+% --->  
+
+y ---> t
+
+m ---> h
+
+n ---> i
+
+YOUR DECRYPTED MESSAGE: I think that all people should learn about security, it is imperative in today's world
+
+
+
+ORIGINAL MESSAGE: abcdefghijklmnopqrstuvwxyz
+
+
+Message length: 26 characters
+
+Shifts: [20, 10, 0]
+
+Number of groups: 3
+
+Length of each group: 8
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 8 characters, except for the last group
+Here are the groups: [abcdefgh, ijklmnop, qrstuvwxyz]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: zyxwvutsrqzyxwvuts|{zyxwvu
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: uvwxyz{|stuvwxyzqrstuvwxyz
+
+We use the same grouping system to decrypt as well!
+
+Message length: 26
+
+Shifts: [20, 10, 0]
+
+Number of groups: 3
+
+Length of each group: 8
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 8 characters, except for the last group
+
+
+Here are the groups: [uvwxyz{|, stuvwxyz, qrstuvwxyz]
+
+
+u ---> a
+
+v ---> b
+
+w ---> c
+
+x ---> d
+
+y ---> e
+
+YOUR DECRYPTED MESSAGE: abcdefghijklmnopqrstuvwxyz
+
+
+
+ORIGINAL MESSAGE: This is the 3rd cipher in the program, with a difficulty level of 4/5. 
+
+
+Message length: 71 characters
+
+Shifts: [5, 4, 3, 2, 1]
+
+Number of groups: 5
+
+Length of each group: 14
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 14 characters, except for the last group
+Here are the groups: [This is the 3r, d cipher in th, e program, wit, h a difficulty,  level of 4/5. ]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: !/605!gp!mfwfm!{vnwekhhkf"c"jwlz#/pdujrus#hlx$rm$viltmg$hw8%jmy%xn%xnmY
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: Ymnx%nx%ymj%8wh$gmtliv$mr$xlh#surjudp/#zlwj"c"fkhhkewnv{!mfwfm!pg!506/!
+
+We use the same grouping system to decrypt as well!
+
+Message length: 71
+
+Shifts: [5, 4, 3, 2, 1]
+
+Number of groups: 5
+
+Length of each group: 14
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 14 characters, except for the last group
+
+
+Here are the groups: [Ymnx%nx%ymj%8w, h$gmtliv$mr$xl, h#surjudp/#zlw, j"c"fkhhkewnv{, !mfwfm!pg!506/!]
+
+
+Y ---> T
+
+m ---> h
+
+n ---> i
+
+x ---> s
+
+% --->  
+
+YOUR DECRYPTED MESSAGE: This is the 3rd cipher in the program, with a difficulty level of 4/5. 
+
+
+
+ORIGINAL MESSAGE: The quick brown fox jumps over the lazy little dog, but dogs are not lazy in my opinion
+
+
+Message length: 87 characters
+
+Shifts: [1, 1, 2, 3, 5, 8, 13, 21]
+
+Number of groups: 8
+
+Length of each group: 10
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 10 characters, except for the last group
+Here are the groups: [The quick , brown fox , jumps over,  the lazy , little dog, , but dogs,  are not l, azy in my opinion]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: ??~?~??5??5?~5??vy-?|{-rn-{owl(|}j(4lti%jqyynq#|}do#hkw#tgxq"urowl!ypg!oxpsc!ldjvr!fiU
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: Uif!rvjdl!cspxo!gpy!lworu"qxgt#wkh#od}|#qnyyqj%itl4(j}|(lwo{-nr-{|?-yv??5~?5??5??~?~??
+
+We use the same grouping system to decrypt as well!
+
+Message length: 87
+
+Shifts: [1, 1, 2, 3, 5, 8, 13, 21]
+
+Number of groups: 8
+
+Length of each group: 10
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 10 characters, except for the last group
+
+
+Here are the groups: [Uif!rvjdl!, cspxo!gpy!, lworu"qxgt, #wkh#od}|#, qnyyqj%itl, 4(j}|(lwo{, -nr-{|?-y, v??5~?5??5??~?~??]
+
+
+U ---> T
+
+i ---> h
+
+f ---> e
+
+! --->  
+
+r ---> q
+
+YOUR DECRYPTED MESSAGE: The quick brown fox jumps over the lazy little dog, but dogs are not lazy in my opinion
+
+
+
+ORIGINAL MESSAGE: This cipher is also known as the Hill Cipher, invented by Lester S. Hill in 1929
+
+
+Message length: 80 characters
+
+Shifts: [26, 0, 26, 0, 26, 0]
+
+Number of groups: 6
+
+Length of each group: 13
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 13 characters, except for the last group
+Here are the groups: [This cipher i, s also known , as the Hill C, ipher, invent, ed by Lester , S. Hill in 1929]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: 9291 ni lliH .S:???f:?|:~tnevni ,rehpi]:???b:??:?{ nwonk osla s?:????}:???n
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: n???:}????:?s also known {?:??:b???:]ipher, invent~:|?:f???:S. Hill in 1929
+
+We use the same grouping system to decrypt as well!
+
+Message length: 80
+
+Shifts: [26, 0, 26, 0, 26, 0]
+
+Number of groups: 6
+
+Length of each group: 13
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 13 characters, except for the last group
+
+
+Here are the groups: [n???:}????:?, s also known , {?:??:b???:], ipher, invent, ~:|?:f???:, S. Hill in 1929]
+
+
+n ---> T
+
+? ---> h
+
+? ---> i
+
+? ---> s
+
+: --->  
+
+YOUR DECRYPTED MESSAGE: This cipher is also known as the Hill Cipher, invented by Lester S. Hill in 1929
+
+
+
+ORIGINAL MESSAGE: My favorite movie is My Cousin Vinny, but I also enjoyed the movie Airplane
+
+
+Message length: 75 characters
+
+Shifts: [1, 4, 9, 16, 25, 16, 9, 4, 1]
+
+Number of groups: 9
+
+Length of each group: 8
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 8 characters, except for the last group
+Here are the groups: [My favor, ite movi, e is My , Cousin V, inny, bu, t I also,  enjoyed,  the mov, ie Airplane]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: fobmqsjB!fjzsq$ilx$mn?xswn)?|q0Y0??{9E????f0~y??S)?V)|r)nmzsq$ixmspwbg!zN
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: Nz!gbwpsmxi$qszmn)r|)V?)S??y~0f????E9{??0Y0q|?)nwsx?nm$xli$qszjf!Bjsqmbof
+
+We use the same grouping system to decrypt as well!
+
+Message length: 75
+
+Shifts: [1, 4, 9, 16, 25, 16, 9, 4, 1]
+
+Number of groups: 9
+
+Length of each group: 8
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 8 characters, except for the last group
+
+
+Here are the groups: [Nz!gbwps, mxi$qszm, n)r|)V?), S??y~0f, ????E9{?, ?0Y0q|?, )nwsx?nm, $xli$qsz, jf!Bjsqmbof]
+
+
+N ---> M
+
+z ---> y
+
+! --->  
+
+g ---> f
+
+b ---> a
+
+YOUR DECRYPTED MESSAGE: My favorite movie is My Cousin Vinny, but I also enjoyed the movie Airplane
+
+
+
+ORIGINAL MESSAGE: I play the sports soccer, baseball, and frisbee, but like to watch football on TV
+
+
+Message length: 81 characters
+
+Shifts: [2, 2, 8, 16, 8, 2, 2]
+
+Number of groups: 7
+
+Length of each group: 11
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 11 characters, except for the last group
+Here are the groups: [I play the , sports socc, er, basebal, l, and fris, bee, but li, ke to watch,  football on TV]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: XV"pq"nncdvqqh"jevcy"qv"gmqt(|}j(4mmj?y?v0t~q0<|tijm{ij(4zmeequ"uvtqru"gjv"{cnr"K
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: K"rnc{"vjg"urqtvu"uqeemz4(ji{mjit|<0q~t0v?y?jmm4(j}|(tqmg"vq"ycvej"hqqvdcnn"qp"VX
+
+We use the same grouping system to decrypt as well!
+
+Message length: 81
+
+Shifts: [2, 2, 8, 16, 8, 2, 2]
+
+Number of groups: 7
+
+Length of each group: 11
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 11 characters, except for the last group
+
+
+Here are the groups: [K"rnc{"vjg", urqtvu"uqee, mz4(ji{mjit, |<0q~t0v?y?, jmm4(j}|(tq, mg"vq"ycvej, "hqqvdcnn"qp"VX]
+
+
+K ---> I
+
+" --->  
+
+r ---> p
+
+n ---> l
+
+c ---> a
+
+YOUR DECRYPTED MESSAGE: I play the sports soccer, baseball, and frisbee, but like to watch football on TV
+
+
+
+ORIGINAL MESSAGE: I think computer science is an incredibly useful sibject to learn. Not only is it fun, it's something that will be used in the future.
+
+
+Message length: 134 characters
+
+Shifts: [12, 32, 24, 14, 18, 0, 1]
+
+Number of groups: 7
+
+Length of each group: 19
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 19 characters, except for the last group
+Here are the groups: [I think computer sc, ience is an incredi, bly useful sibject , to learn. Not only , is it fun, it's som, ething that will be,  used in the future.]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: /fsvuvg!fiu!oj!eftv!eb lliw taht gnihte??2?9?{2>??x2?{2?{.?z|}.?}\.<|?osz.}?8?{}?z??8??~}??8??z???????@??@??@?????o,~q??|y{o,wzut?,U
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: U,?tuzw,o{y|??q~,o?????@??@??@???????z??8??}~??8??z?}{?8?}.zso?|<.\}?.}|z?.{?2{?2x??>2{?9?2??ething that will be!vtfe!jo!uif!gvuvsf/
+
+We use the same grouping system to decrypt as well!
+
+Message length: 134
+
+Shifts: [12, 32, 24, 14, 18, 0, 1]
+
+Number of groups: 7
+
+Length of each group: 19
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 19 characters, except for the last group
+
+
+Here are the groups: [U,?tuzw,o{y|??q~,o, ?????@??@??@???????, z??8??}~??8??z?}{?8, ?}.zso?|<.\}?.}|z?., {?2{?2x??>2{?9?2??, ething that will be, !vtfe!jo!uif!gvuvsf/]
+
+
+U ---> I
+
+, --->  
+
+? ---> t
+
+t ---> h
+
+u ---> i
+
+YOUR DECRYPTED MESSAGE: I think computer science is an incredibly useful sibject to learn. Not only is it fun, it's something that will be used in the future.
+
+
+
+ORIGINAL MESSAGE: I would like to go to college somewhere, but I don't know where yet
+
+
+Message length: 67 characters
+
+Shifts: [1, 3, 2, 4, 5, 7, 6, 8, 9, 11, 10, 12]
+
+Number of groups: 12
+
+Length of each group: 5
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 5 characters, except for the last group
+Here are the groups: [I wou, ld li, ke to,  go t, o col, lege , somew, here,,  but , I don, 't kn, ow where yet]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: ?q?,q~qt?,?{xu*~1yzo+T)}~k)4mzmp}ksuy'lnlsqth%tx$sk$qv"gmlo#govpx!J
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: J!xpvog#olmg"vq$ks$xt%htqslnl'yusk}pmzm4)k~})T+ozy1~*ux{?,?tq~q,?q?
+
+We use the same grouping system to decrypt as well!
+
+Message length: 67
+
+Shifts: [1, 3, 2, 4, 5, 7, 6, 8, 9, 11, 10, 12]
+
+Number of groups: 12
+
+Length of each group: 5
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 5 characters, except for the last group
+
+
+Here are the groups: [J!xpv, og#ol, mg"vq, $ks$x, t%htq, slnl', yusk}, pmzm4, )k~}), T+ozy, 1~*ux, {?,?tq~q,?q?]
+
+
+J ---> I
+
+! --->  
+
+x ---> w
+
+p ---> o
+
+v ---> u
+
+YOUR DECRYPTED MESSAGE: I would like to go to college somewhere, but I don't know where yet
+
+
+
+ORIGINAL MESSAGE: In addition to computer science, I am also interested in music, economics, and traveling the world. 
+
+
+Message length: 100 characters
+
+Shifts: [1, 11, 20, 4]
+
+Number of groups: 4
+
+Length of each group: 25
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 25 characters, except for the last group
+Here are the groups: [In addition to computer s, cience, I am also interes, ted in music, economics, , and traveling the world. ]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: $2hpvs{$ilx$krmpizevx$hre4@?w}????wy4@w}???4?}4xy?~p}pyt+z~wl+xl+T+7pnyptnt!sfuvqnpd!pu!opjujeeb!oJ
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: Jo!beejujpo!up!dpnqvufs!tntpynp7+T+lx+lw~z+typ}p~?yx4}?4???}w@4yw????}w?@4erh$xvezipmrk$xli${svph2$
+
+We use the same grouping system to decrypt as well!
+
+Message length: 100
+
+Shifts: [1, 11, 20, 4]
+
+Number of groups: 4
+
+Length of each group: 25
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 25 characters, except for the last group
+
+
+Here are the groups: [Jo!beejujpo!up!dpnqvufs!t, ntpynp7+T+lx+lw~z+typ}p~, ?yx4}?4???}w@4yw????}w?@4, erh$xvezipmrk$xli${svph2$]
+
+
+J ---> I
+
+o ---> n
+
+! --->  
+
+b ---> a
+
+e ---> d
+
+YOUR DECRYPTED MESSAGE: In addition to computer science, I am also interested in music, economics, and traveling the world. 
+
+
+
+ORIGINAL MESSAGE: I was born on January 11th, 2004, so my zodiac sign is a Capricorn
+
+
+Message length: 66 characters
+
+Shifts: [0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2]
+
+Number of groups: 12
+
+Length of each group: 5
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 5 characters, except for the last group
+Here are the groups: [I was,  born,  on J, anuar, y 11t, h, 20, 04, s, o my , zodia, c sig, n is , a Capricorn]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: ptqektrcE"c"uk"piku"eckfq|!zn!pt!-5113!-iu22!zraunaJ no nrob saw I
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: I was born on Januarz!22ui-!3115-!tp!nz!|qfkce"ukip"ku"c"Ecrtkeqtp
+
+We use the same grouping system to decrypt as well!
+
+Message length: 66
+
+Shifts: [0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2]
+
+Number of groups: 12
+
+Length of each group: 5
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 5 characters, except for the last group
+
+
+Here are the groups: [I was,  born,  on J, anuar, z!22u, i-!31, 15-!t, p!nz!, |qfkc, e"uki, p"ku", c"Ecrtkeqtp]
+
+
+I ---> I
+
+  --->  
+
+w ---> w
+
+a ---> a
+
+s ---> s
+
+YOUR DECRYPTED MESSAGE: I was born on January 11th, 2004, so my zodiac sign is a Capricorn
+
+
+
+ORIGINAL MESSAGE: This is the last test case for this cipher, hope you learned a lot about how it works!!!
+
+
+Message length: 88 characters
+
+Shifts: [26, 2, 23, 20, 16, 5, 15, 4, 14, 13]
+
+Number of groups: 10
+
+Length of each group: 8
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 8 characters, except for the last group
+Here are the groups: [This is , the last,  test ca, se for t, his ciph, er, hope,  you lea, rned a l, ot about,  how it works!!!]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: ...?x|?-?v-?|u-??}po.?}p$e$hirvpt{/?~?/jutm%1wjx?ys0?yx?4??z4y?xz7??|?7vucn"gjv:??:???n
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: n???:??:vjg"ncuv7?|??7zx?y4z??4?xy?0sy?xjw1%mtuj/?~?/{tpvrih$e$p}?.op}??-u|?-v?-?|x?...
+
+We use the same grouping system to decrypt as well!
+
+Message length: 88
+
+Shifts: [26, 2, 23, 20, 16, 5, 15, 4, 14, 13]
+
+Number of groups: 10
+
+Length of each group: 8
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 8 characters, except for the last group
+
+
+Here are the groups: [n???:??:, vjg"ncuv, 7?|??7zx, ?y4z??4?, xy?0sy?x, jw1%mtuj, /?~?/{tp, vrih$e$p, }?.op}??, -u|?-v?-?|x?...]
+
+
+n ---> T
+
+? ---> h
+
+? ---> i
+
+? ---> s
+
+: --->  
+
+YOUR DECRYPTED MESSAGE: This is the last test case for this cipher, hope you learned a lot about how it works!!!
+
+
+Message length: 38 characters
+
+Shifts: [12, 3, 4, 10]
+
+Number of groups: 4
+
+Length of each group: 9
+
+
+
+STEP-BY-STEP EXPLANATION - ENCRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+Each group has 9 characters, except for the last group
+Here are the groups: [@trevorno, ah is my , favorite , comedian ;)]
+
+Let's encrypt a few characters!
+
+On the right are characters from your original message, and on the left are encrypted characters
+
+Finally your encrypted characters are reversed
+
+YOUR ENCRYPTED MESSAGE: 3E*xksnowym$ixmvszej#|p#vl#kd{z~{?q~?L
+
+
+Let's decrypt your message now!
+
+First, we have to un-reverse your message
+
+Un-reversed message: L?~q?{~z{dk#lv#p|#jezsvmxi$mywonskx*E3
+
+We use the same grouping system to decrypt as well!
+
+Message length: 38
+
+Shifts: [12, 3, 4, 10]
+
+Number of groups: 4
+
+Length of each group: 9
+
+
+
+STEP-BY-STEP EXPLANATION - DECRYPTION
+
+
+1. First, group your characters by dividing the number of characters in your message by the number of given shifts.
+
+2. Then, shift EACH CHARACTER (including spaces and special characters) by the shift that corresponds to that group
+
+Each group has 9 characters, except for the last group
+
+
+Here are the groups: [L?~q?{~z{, dk#lv#p|#, jezsvmxi$, mywonskx*E3]
+
+
+L ---> @
+
+? ---> t
+
+~ ---> r
+
+q ---> e
+
+? ---> v
+
+YOUR DECRYPTED MESSAGE: @trevornoah is my favorite comedian ;)
+
