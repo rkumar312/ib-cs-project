@@ -1,2 +1,2 @@
 # software-projects
-Repository for all completed and ongoing projects. 
+Repository for IB Computer Science Project documenting the evolution of secret ciphers. 
